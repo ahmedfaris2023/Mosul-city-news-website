@@ -25,6 +25,8 @@ Conclusion:
 Mosul News Website is a useful web application that provides a valuable local media service to the residents of Mosul. The site is developed using React JS, making it easy to use, dynamic and scalable.
 
 ![Picture1](https://github.com/ahmedfaris2023/Mosul-city-news-website/assets/124607626/99284cc4-75be-405b-bbc6-97b82739a2a3)
+
+------------------------------
 ![Picture2](https://github.com/ahmedfaris2023/Mosul-city-news-website/assets/124607626/7c0316e5-a030-41c7-9570-18fdd450b09c)
 ![Picture3](https://github.com/ahmedfaris2023/Mosul-city-news-website/assets/124607626/45bb1b42-1aaf-4f0e-a2cd-85a2572cb056)
 ![Picture4](https://github.com/ahmedfaris2023/Mosul-city-news-website/assets/124607626/8642f182-2844-47a9-a835-26561a0df737)
