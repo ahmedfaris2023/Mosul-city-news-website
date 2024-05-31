@@ -34,9 +34,10 @@ Mosul News Website is a useful web application that provides a valuable local me
 ![Picture8](https://github.com/ahmedfaris2023/Mosul-city-news-website/assets/124607626/b54251bb-25c1-427b-bde7-b94691de62ce)
 ![Picture9](https://github.com/ahmedfaris2023/Mosul-city-news-website/assets/124607626/cab8e803-4a09-47bc-8f18-ad30561f4410)
 
-## The first step is to install npm.
-## Available Scripts
+### The first step is to install npm.
 ### `npm install`
+## Available Scripts
+
 In the project directory, you can run:
 
 ### `npm start`
